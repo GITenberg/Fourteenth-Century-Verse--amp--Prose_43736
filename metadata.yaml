@@ -1,0 +1,29 @@
+_repo: Fourteenth-Century-Verse--amp--Prose_43736
+_version: 0.1.0
+alternative_title: 14th Century Verse and Prose
+covers:
+- cover_type: archival
+  image_path: 43736-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Sisam, Kenneth
+    birthdate: 1887
+    gutenberg_agent_id: '42378'
+    url: http://www.gutenberg.org/2009/agents/42378
+description: 'See "A Middle English Vocabulary, Designed for use with Sisam''s Fourteenth
+  Century Verse & Prose" by J.R.R. Tolkien, ebook #43737.'
+gutenberg_issued: '2013-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43736'
+  lccn: '22005251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- 14th century -- Sources'
+- !lcsh 'English literature -- Middle English, 1100-1500'
+- !lcc 'PR'
+title: Fourteenth Century Verse & Prose
+url: http://www.gutenberg.org/ebooks/43736
