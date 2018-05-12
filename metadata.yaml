@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42378
 description: 'See "A Middle English Vocabulary, Designed for use with Sisam''s Fourteenth
   Century Verse & Prose" by J.R.R. Tolkien, ebook #43737.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43736#Fourteenth-Century-Verse--amp--Prose
 gutenberg_issued: '2013-09-15'
 gutenberg_type: Text
 identifiers:
